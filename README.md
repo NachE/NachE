@@ -24,6 +24,9 @@ Hi there! I'm a passionate developer with a strong focus on **Go** and **Python*
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NachE&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NachE&layout=compact&theme=dark)
 
+> **📌 Note:** The statistics displayed above may not fully reflect my contributions. This is because GitHub Readme Stats does not account for work done in private repositories or within organizations. Rest assured, my involvement in impactful projects extends beyond what's visible here!
+
+
 ---
 
 # 📚 Current Focus
